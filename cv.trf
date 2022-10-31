@@ -32,30 +32,30 @@ experience from years of experimentation, with a particular interest in
 .
 .SH "Educational Institutions" 
 .DA 2021 2022 "Dunboyne College of Further Education" "Computer Systems & Networks"
-Graduated a QQI lvl. 5 course (\fILeaving Cert\fP equiv.), with 10/11
-distinctions, completing modules in programming, networking, web, mobile,
-hardware, security, OSs, and maths. I also chaired the student union and
-volunteered at college events.
+Graduated a QQI lvl. 5 course (\fILeaving Cert\fP equiv.), completing modules
+in programming, networking, web, mobile, hardware, security, OSs, and maths.
+Also, involved in college events and student union.
 .DE
 .DA 2016 2020 "Dunshaughlin Community College" "Junior Certificate"
-Completed the \fIJunior Cert/Cycle\fP, with mostly Bs and Cs, also fifth year,
-prior to leaving for \fIDCFE\fP. I founded a school computer club, was a member
-of the chess club, and received multiple attendance awards.
+Completed the \fIJunior Cert/Cycle\fP and fifth year. I founded a school
+computer club, was a member of the chess club, and received multiple attendance
+awards.
 .DE
 .
 .SH "Work Experience"
-.DA 2021 2022 "Navan PC"
-Completed work experience for the \fIDCFE\fP course at a computer repair store,
-where I diagnosed/repaired laptop/desktop PCs, game consoles, printers, cables,
-etc.
+.DA 2021 present "Navan PC"
+Part-time work and work experience (for \fIDCFE\fP).
+Diagnosed/repaired/refurbished laptops, PCs, printers, etc. Installed and
+configured an \fIArch Linux RAID NAS\fP running \fINextcloud\fP, and several
+related network configurations. Also, created several HTML pages.
 .DE
 .
 .SH "External Activities"
-I maintain a custom-built PC, running a minimal \fIArch Linux\fP system with the
-\fIi3\fP tilling-window manager, as well as a \fIDebain Linux\fP VPS server
+I maintain a custom-built PC, running a minimal \fIArch Linux\fP system with
+the \fIi3\fP tilling-window manager, as well as a \fIDebain Linux\fP VPS
 running web, email, \fIMatrix\fP, and \fIGit\fP servers. I often read technical
-computer books. Outside of computers, I do cooking, walking, weights, and other
-reading.
+computer books. Outside of computers, I do cooking, walking, weight lifting,
+and other reading.
 .
 .SH References
 .IN \*(r1 
