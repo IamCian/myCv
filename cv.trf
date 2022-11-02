@@ -45,19 +45,20 @@ awards.
 .DE
 .
 .SH "Work Experience"
-.DA 2021 present "Navan PC"
-Part-time work and work experience (for \fIDCFE\fP).
-Diagnosed/repaired/refurbished laptops, PCs, printers, etc. Installed and
-configured an \fIArch Linux RAID NAS\fP running \fINextcloud\fP, and several
-related network configurations. Also, created several HTML pages.
+.DA 2022 present "Navan PC"
+Part-time work diagnosing/repairing/refurbishing laptops, PCs, phones, etc.
+Installed and configured an \fIArch Linux RAID NAS\fP running \fINextcloud\fP,
+and several related network configurations. Also, created several HTML pages.
+.DE
+.DA 2021 2022 "Navan PC"
+Completed work experience for \fIDCFE\fP.
 .DE
 .
 .SH "External Activities"
-I maintain a custom-built PC, running a minimal \fIArch Linux\fP system with
-the \fIi3\fP tilling-window manager, as well as a \fIDebain Linux\fP VPS
-running web, email, \fIMatrix\fP, and \fIGit\fP servers. I often read technical
-computer books. Outside of computers, I do cooking, walking, weight lifting,
-and other reading.
+I maintain a custom-built PC, running a minimal \fIArch Linux i3wm\fP system,
+as well as a \fIDebain Linux\fP VPS running web, email, \fIMatrix\fP, and
+\fIGit\fP servers. I often read technical computer books. Outside of computers,
+I do cooking, walking, weight lifting, and other reading.
 .
 .SH References
 .IN \*(r1 
