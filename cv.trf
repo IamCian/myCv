@@ -45,10 +45,9 @@ awards.
 .DE
 .
 .SH "Work Experience"
-.DA 2022 present "Navan PC"
-Part-time work diagnosing/repairing/refurbishing laptops, PCs, phones, etc.
-Installed and configured an \fIArch Linux RAID NAS\fP running \fINextcloud\fP,
-and several related network configurations. Also, created several HTML pages.
+.DA 2022 2022 "Navan PC"
+Part time work repairing/refurbishing devices, web development, server and
+network management.
 .DE
 .DA 2021 2022 "Navan PC"
 Completed work experience for \fIDCFE\fP.
