@@ -1,9 +1,9 @@
 \# vim: ft=groff
 .HEADER Cian Bagshaw
-.INFO web cianb.xyz
-.INFO email cian@cianb.xyz
-.INFO phone 0894823964
-.INFO home \s-4\*(ad\s+4
+.INFO web   cianb.xyz
+.INFO email \*[EMAIL] 
+.INFO phone \*[TELEPHONE_NUM]
+.INFO home  \s[-4]\*[HOME_ADDRESS]\s[+4]
 .HEADER_END
 .
 .SECTION Summary 
@@ -57,5 +57,5 @@ as well as a \fIDebain Linux\fP VPS running web, email, \fIMatrix\fP, and
 I do cooking, walking, weight lifting, and other reading.
 .
 .SECTION References
-.INFO \*(r1 
-.INFO \*(r2
+.INFO \*[REFEREE1]
+.INFO \*[REFEREE2]
