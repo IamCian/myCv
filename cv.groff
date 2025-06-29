@@ -32,23 +32,23 @@ experience from years of experimentation, with a particular interest in
 .LIST_END
 .
 .SECTION Educational Institutions 
-.TIMELINFOE_DATE 2021 2022 Dunboyne College of Further Education
+.TIMELINE_DATE 2021 2022 Dunboyne College of Further Education
 Completed modules in programming, networking, web, mobile, hardware, security,
 OSs, and maths.  Was involved in college events and student union.
-.TIMELINFOE_DATE_END
-.TIMELINFOE_DATE 2016 2020 Dunshaughlin Community College
+.TIMELINE_DATE_END
+.TIMELINE_DATE 2016 2020 Dunshaughlin Community College
 Completed the \fIJunior Cycle\fP and fifth year. Founded a school computer
 club, was a member of the chess club, and received multiple attendance awards.
-.TIMELINFOE_DATE_END
+.TIMELINE_DATE_END
 .
 .SECTION Work Experience
-.TIMELINFOE_DATE 2022 2022 Navan PC
+.TIMELINE_DATE 2022 2022 Navan PC
 Part time work repairing/refurbishing devices, web development, server and
 network management.
-.TIMELINFOE_DATE_END
-.TIMELINFOE_DATE 2021 2022 Navan PC
+.TIMELINE_DATE_END
+.TIMELINE_DATE 2021 2022 Navan PC
 Completed work experience for \fIDCFE\fP.
-.TIMELINFOE_DATE_END
+.TIMELINE_DATE_END
 .
 .SECTION External Activities
 I maintain a custom-built PC, running a minimal \fIArch Linux i3wm\fP system,
