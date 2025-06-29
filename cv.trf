@@ -1,62 +1,60 @@
-.ds FO "A current version of this document and supporting documents can be found at https://cianb.xyz/docs
+.HEADER Cian Bagshaw
+.INFO web cianb.xyz
+.INFO email cian@cianb.xyz
+.INFO phone 0894823964
+.INFO home \s-4\*(ad\s+4
+.HEADER_END
 .
-.HS "Cian Bagshaw" profile.pdf
-.IN web cianb.xyz
-.IN email cian@cianb.xyz
-.IN phone 0894823964
-.IN home "\s-4\*(ad\s+4"
-.HE
-.
-.SH Summary 
+.SECTION Summary 
 A competent, driven computer enthusiast, with a wide range of skills and
 experience from years of experimentation, with a particular interest in
 \fIUnix\fP-based systems, minimal, and \fIFOSS\fP software.
 .
-.SH Competencies
-.LS 4 8 
-.LI "Quick Learner"
+.SECTION Competencies
+.LIST 4 8 
+.LI Quick Learner
 .LI Flexible
-.LI "Fast Typist"
+.LI Fast Typist
 .LI Multimedia
 .LI Hardware 
 .LI Repair
 .LI Networking
 .LI Windows
 .LI Linux
-.LI "Unix Shell"
+.LI Unix Shell
 .LI C/C++
 .LI Python
 .LI NodeJS
 .LI HTML/CSS/JS 
 .LI Groff/Troff
 .LI VI(M)
-.LE
+.LIST_END
 .
-.SH "Educational Institutions" 
-.DA 2021 2022 "Dunboyne College of Further Education" "QQI 5 in Computer Systems & Networks"
+.SECTION Educational Institutions 
+.TIMELINFOE_DATE 2021 2022 Dunboyne College of Further Education
 Completed modules in programming, networking, web, mobile, hardware, security,
 OSs, and maths.  Was involved in college events and student union.
-.DE
-.DA 2016 2020 "Dunshaughlin Community College" "Junior Certificate"
+.TIMELINFOE_DATE_END
+.TIMELINFOE_DATE 2016 2020 Dunshaughlin Community College
 Completed the \fIJunior Cycle\fP and fifth year. Founded a school computer
 club, was a member of the chess club, and received multiple attendance awards.
-.DE
+.TIMELINFOE_DATE_END
 .
-.SH "Work Experience"
-.DA 2022 2022 "Navan PC"
+.SECTION Work Experience
+.TIMELINFOE_DATE 2022 2022 Navan PC
 Part time work repairing/refurbishing devices, web development, server and
 network management.
-.DE
-.DA 2021 2022 "Navan PC"
+.TIMELINFOE_DATE_END
+.TIMELINFOE_DATE 2021 2022 Navan PC
 Completed work experience for \fIDCFE\fP.
-.DE
+.TIMELINFOE_DATE_END
 .
-.SH "External Activities"
+.SECTION External Activities
 I maintain a custom-built PC, running a minimal \fIArch Linux i3wm\fP system,
 as well as a \fIDebain Linux\fP VPS running web, email, \fIMatrix\fP, and
 \fIGit\fP servers. I often read technical computer books. Outside of computers,
 I do cooking, walking, weight lifting, and other reading.
 .
-.SH References
-.IN \*(r1 
-.IN \*(r2
+.SECTION References
+.INFO \*(r1 
+.INFO \*(r2
